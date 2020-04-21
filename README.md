@@ -17,11 +17,10 @@ You have to let it all go, Neo. Fear, doubt, and disbelief. Free your mind.
 Git-Awakening
 =============
 
-Welcome to Git-Awakening! Inspired by [Notpron][], Git-Awakening is a puzzle
+Welcome to Git-Awakening!, Git-Awakening is a puzzle
 game in a Git repository; it uses the whole repository, not just the files 
 within it.
 
-[Notpron]: http://notpron.org/notpron/
 
 Requirements
 ------------
@@ -73,4 +72,6 @@ able to find everything you need on the [Git website][gitdoc].
 
 [gitdoc]: https://git-scm.com/doc
 
-Inspired by [Notpron][]
+Based on [cthulhu][]
+
+[cthulhu]: https://github.com/tpenguinltg/cthulhu
