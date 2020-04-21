@@ -14,6 +14,8 @@ your knowledge of git this will help you awake.
 
 You have to let it all go, Neo. Fear, doubt, and disbelief. Free your mind.
 
+![Follow me](white-rabbit.jpg)
+
 Git-Awakening
 =============
 
